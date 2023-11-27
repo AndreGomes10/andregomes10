@@ -1,8 +1,9 @@
-
+I am a software developer with experience building system, I specialize in C# and have professional experience working with C#.
 
 <div  align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=andregomes10&theme=radical&mode=weekly" />
 </div>
+
 
 ## My Skills
 
@@ -25,3 +26,10 @@
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
+
+## Contacts:
+
+<div> 
+  <a href = "agomesbsi@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-gomes-1a7344123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+</div>&nbsp;&nbsp;

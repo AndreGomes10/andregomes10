@@ -1,4 +1,4 @@
-I am a software developer with experience building system, I specialize in C# and have professional experience working with C#.
+I am a software developer with experience building system, I specialize in C# .NET and have professional experience working with C#.
 I am currently immersed in learning Node.js and React, two powerful technologies that form the backbone of modern web development. Through dedicated study and hands-on projects, I am gaining a comprehensive understanding of building scalable and efficient server-side applications with Node.js, as well as creating dynamic and interactive user interfaces with React. This learning journey not only involves mastering the syntax and features of these technologies but also delving into best practices for creating robust and maintainable code. I am excited about the potential these technologies offer in crafting responsive and user-friendly web applications, and I am committed to honing my skills to contribute effectively to innovative and cutting-edge projects in the field of web development.
 
 <div  align="center" style="margin-bottom:100px">

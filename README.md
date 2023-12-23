@@ -1,5 +1,9 @@
-I am a software developer with experience building system, I specialize in C# .NET and have professional experience working with C#.
-I am currently immersed in learning Node.js and React, two powerful technologies that form the backbone of modern web development. Through dedicated study and hands-on projects, I am gaining a comprehensive understanding of building scalable and efficient server-side applications with Node.js, as well as creating dynamic and interactive user interfaces with React. This learning journey not only involves mastering the syntax and features of these technologies but also delving into best practices for creating robust and maintainable code. I am excited about the potential these technologies offer in crafting responsive and user-friendly web applications, and I am committed to honing my skills to contribute effectively to innovative and cutting-edge projects in the field of web development.
+I wish to express my enthusiasm for the Software Developer position. I hold a Bachelor's degree in Information Systems from the Universidade do Oeste Paulista (UNOESTE), where I had the opportunity to deepen my knowledge in both theoretical and practical aspects of the broad field of computing.
+
+My journey in technology encompasses participation in high-impact bootcamps such as the Avanade .NET Decola Tech 2024 Bootcamp, AWS Bootcamp, and specialized training programs including ChatGPT for Devs, JavaScript Developer, .NET Developer, Angular Developer, Node.js, and React. These experiences underscore my commitment to continuous learning and staying updated amidst technological innovations.
+
+Beyond academic and technical commitment, I strive to apply my knowledge to practical projects, distinguishing myself through dedication, creativity, and a proactive approach to technological challenges. Armed with a solid foundation and contagious enthusiasm, I feel well-prepared to embark on a promising career as a software developer, contributing innovative solutions and establishing my name in the technological landscape.
+
 
 <div  align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=andregomes10&theme=radical&mode=weekly" />

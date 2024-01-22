@@ -35,7 +35,7 @@ Beyond academic and technical commitment, I strive to apply my knowledge to prac
 [<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="75"></a>](https://www.dio.me/certificate/31881ABC/share)
 [<img src="https://hermes.dio.me/tracks/077c7636-313d-4f1a-ba1c-c3aac542e86b.png" height="75"></a>](https://www.dio.me/certificate/CA764103/share)
 [<img src="https://hermes.dio.me/tracks/5a199bba-a494-49ce-b357-f746eb7b7425.png" height="75"></a>](https://www.dio.me/certificate/6B43977E/share)
-[<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="75"></a>](https://www.dio.me/certificate/9A2392BE/share)
+[<img src="https://hermes.dio.me/tracks/90d15bc9-7eb9-4f23-a8f3-270e21549699.png" height="75"></a>](https://www.dio.me/certificate/9524A1BC/share)
 
 
 
